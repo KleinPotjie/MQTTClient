@@ -25,6 +25,9 @@ namespace MQTTClient
         string sqlServerName;
         string sqlDatabase;
         string sqlConnectionString;
+
+
+
         //MqttClient client = new MqttClient(IPAddress.Parse("192.168.10.53"));
         MqttClient client;
         string clientId;
